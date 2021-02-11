@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Switching Deployment Environments
+
+*****
+## Switching Deployment Environments
+rails db: migrate RAILS_ENV = production
